@@ -1,0 +1,100 @@
+html,body{
+   margin: 0px;
+   padding: 0px;
+}
+
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+
+
+background-color: #3e5fce;
+}
+.navbar ul {
+display: flex;
+    color: black;
+list-style: none;
+}
+.navbar ul a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+
+ .navbar img{
+    width:80px;
+ } 
+ .whole{
+    background-image: url("images/imgs.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
+ .COLOR{
+   color: blue;
+ }
+ .box{
+
+    height: 500px;
+ }
+ .body{
+   
+   width: 300px;
+   height: 50px;
+margin-left: 100px;
+padding-top: 200px;
+  
+ }
+ .icon{
+
+  margin-top: 30px;
+   
+ }
+.leg button{ 
+    
+margin-top: 30px;
+margin-left: 100px;
+background-color: rgb(162, 162, 230);
+}
+.others{
+  
+   justify-content: space-between;
+   display: flex;
+   width: 1000px;
+   margin-left: 200px;
+   padding-left: 20px;
+} 
+.st{
+   padding: left 20px; 
+   background-color: rgb(6, 6, 126);
+}
+
+.ST{
+   width: 20px;
+   background-color: antiquewhite;
+   margin: 10px;
+   margin-left: 40px;
+   padding: 5px;
+}
+.container{
+   width: 100%;
+   height: 400px;
+   background-color: rgb(11, 87, 36);
+}
+.box1{
+width: 150px;
+height: 20px;
+
+background-color: rgb(9, 88, 88);
+color: white;
+
+}
+.box1A{
+width:150px;
+height:120px;
+background-color: rgb(9, 88, 88);
+
+
+}
